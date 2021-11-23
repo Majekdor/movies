@@ -1,0 +1,143 @@
+{
+  "movies": {
+    "romcom": [
+      "The Princess Bride",
+      "Long Shot",
+      "Crazy Rich Asians",
+      "Crazy, Stupid, Love",
+      "Groundhog Day",
+      "Bull Durham",
+      "The Proposal",
+      "Holidate"
+    ],
+    "comedy": [
+      "Grown Ups 2",
+      "The Hangover",
+      "Talladega Nights",
+      "Ferris Bueller's Day Off",
+      "Pitch Perfect",
+      "Murder Mystery",
+      "Palm Springs"
+    ],
+    "drama": [
+      "Ford vs. Ferrari",
+      "The Martian",
+      "Knives Out",
+      "Rush",
+      "Interstellar",
+      "Baby Driver",
+      "Inception",
+      "The Social Network"
+    ],
+    "action": [
+      "Now You See Me 2",
+      "Ready Player One",
+      "Jurassic World",
+      "The Old Guard",
+      "Fast & Furious 6",
+      "Jumanji",
+      "Kingsman",
+      "Point Break",
+      "Avatar",
+      "Red Notice"
+    ],
+    "sports":[
+      "Million Dollar Arm",
+      "Space Jam",
+      "Creed",
+      "42",
+      "Real Steel",
+      "The Blind Side",
+      "White Men Can't Jump",
+      "McFarland USA"
+    ],
+    "romance": [
+      "Love, Rosie",
+      "A Star is Born",
+      "Let It Snow",
+      "La La Land",
+      "Titanic",
+      "The Vow",
+      "Dirty Dancing",
+      "The Notebook"
+    ],
+    "classics": [
+      "Top Gun",
+      "Smokey and the Bandit",
+      "Home Alone",
+      "Pulp Fiction",
+      "Back to the Future",
+      "Raiders of the Lost Ark",
+      "Ghostbusters"
+    ],
+    "animated": [
+      "Wall-E",
+      "Beauty and the Beast",
+      "Up",
+      "Toy Story 4",
+      "Cars",
+      "Moana",
+      "The Incredibles",
+      "Coco",
+      "Finding Nemo",
+      "Aladdin",
+      "The Lion King"
+    ],
+    "christmas": [
+      "Elf",
+      "Home Alone",
+      "The Grinch"
+    ],
+    "marvel": [
+      "Iron Man",
+      "Iron Man 2",
+      "Iron Man 3",
+      "Thor",
+      "Thor: The Dark World",
+      "Thor: Ragnarok",
+      "Captain America: The First Avenger",
+      "Captain America: The Winter Soldier",
+      "Captain America: Civil War",
+      "Spider-Man: Homecoming",
+      "Spider-Man: Far From Home",
+      "Guardians of the Galaxy",
+      "Guardians of the Galaxy Vol. 2",
+      "Avengers",
+      "Avengers: Age of Ultron",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Black Panther",
+      "Doctor Strange",
+      "Captain Marvel",
+      "Ant-Man",
+      "Ant-Man and the Wasp",
+      "Deadpool",
+      "Deadpool 2",
+      "Black Widow",
+      "Shang-Chi",
+      "The Eternals"
+    ],
+    "starwars": [
+      "Star Wars: Episode I - The Phantom Menace",
+      "Star Wars: Episode II - Attack of the Clones",
+      "Star Wars: Episode III - Revenge of the Sith",
+      "Star Wars: Episode IV - A New Hope",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Star Wars: Episode VII - The Force Awakens",
+      "Star Wars: Episode VIII - The Last Jedi",
+      "Star Wars Episode IX - The Rise of Skywalker",
+      "Solo - A Star Wars Story",
+      "Rogue One - A Star Wars Story"
+    ],
+    "harrypotter": [
+      "Harry Potter and the Sorcerer's Stone",
+      "Harry Potter and the Chamber of Secrets",
+      "Harry Potter and the Prisoner of Azkaban",
+      "Harry Potter and the Goblet of Fire",
+      "Harry Potter and the Order of the Phoenix",
+      "Harry Potter and the Half-Blood Prince",
+      "Harry Potter and the Deathly Hallows"
+    ]
+  }
+}
