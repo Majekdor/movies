@@ -6,7 +6,6 @@ async function onLoad() {
             result => json = result,
             error => console.log(error)
         );
-    //console.log(json["movies"].keys);
     const movies = json["movies"];
     let movieArray = [];
     let catString = "";
