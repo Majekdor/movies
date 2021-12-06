@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #1f2833 !important;
+}
+
+button {
+    background-color: #0b0c10;
+    color: #45a29e;
+}
+
+h3 {
+    color: #66fcf1;
+}
+
+div#categories {
+    color: #45a29e;
+}
+
+div#selection {
+    color: #45a29e;
+}
+
+textarea {
+    resize: none;
+    width: 180px;
+    height: 20px;
+}

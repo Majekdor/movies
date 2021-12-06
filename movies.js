@@ -16,9 +16,8 @@ async function onLoad() {
     }
     document.getElementById('categories').innerHTML += catString.substring(0, catString.length - 2);
 
-    const button = document.getElementById("button");
-    button.addEventListener("click", function () {
-        const selection = document.getElementById("select").value.toLowerCase();
+    document.getElementById("button").addEventListener("click", function () {
+        let selection = document.getElementById("select").value.trim().toLowerCase();
         let category = movies[selection];
         if (selection === 'random') {
             category = movies[movieArray[getRandom(0, movieArray.length - 1)]];
@@ -29,6 +28,13 @@ async function onLoad() {
         } else {
             const movie = category[getRandom(0, category.length - 1)]
             document.getElementById("selection").innerHTML = "Selection: " + movie;
+        }
+    });
+
+    document.getElementById('select').addEventListener("keydown",function(e) {
+        if (e.keyCode === 13) {
+            e.preventDefault();
+            document.getElementById("button").click();
         }
     });
 }
